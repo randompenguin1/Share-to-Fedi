@@ -1,4 +1,4 @@
-# Share to Fedi
+# Share to Fedi JS
 
 [ [GO DIRECTLY TO BUTTON BUILDER](https://randompenguin1.github.io/Share-to-Fedi/button_builder.htm) --> ]
 
@@ -379,6 +379,8 @@ Get the code for this project, submit bugs, issues, suggestions, fork it, whatev
 [https://github.com/randompenguin1/Share-to-Fedi](https://github.com/randompenguin1/Share-to-Fedi)
   
 ## Changelog
+* Changed title to "Share to Fedi JS" to distinguish it from other projects (like "Share<sub>2</sub>Fedi"), but not changing repository name. 
+
 Version 1.0
 * Initial release, attaches click event listener to any HTML element with 'mastodon' class name to launch instance question pop-up window.
   
